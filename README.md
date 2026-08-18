@@ -58,17 +58,6 @@ Local development server
 
 📂 Project Structure
 
-Banking System/
-│
-├── index.html
-├── script.js
-├── style.css
-├── settings.json
-├── WhatsApp Image 2024-11-25 at 21.21.07_64efe984.jpg
-│
-└── .vscode/
-    └── settings.json
-
 Main Files
 
 index.html
